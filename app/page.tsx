@@ -15,63 +15,63 @@ const products = [
     name: "Batik Sirkit",
     price: "Rp 450.000",
     image: "/sirkit1.jpeg",
-    description: "Dress batik dengan motif parang klasik",
+    description: "Kain batik dengan motif sirkit",
   },
   {
     id: 2,
     name: "Batik Ukel Tombel",
     price: "Rp 320.000",
     image: "/ukeltombel.jpeg",
-    description: "Kemeja batik motif mega mendung",
+    description: "Kain batik dengan motif ukel tombel",
   },
   {
     id: 3,
     name: "Batik Bata-bataan",
     price: "Rp 380.000",
     image: "/batabataan.jpeg",
-    description: "Blouse batik dengan motif kawung",
+    description: "Kain batik dengan motif bata-bataan",
   },
   {
     id: 4,
     name: "Batik Lukulo",
     price: "Rp 290.000",
     image: "/lukulo.jpeg",
-    description: "Rok batik motif truntum",
+    description: "Kain batik dengan motif lukulo",
   },
   {
     id: 5,
     name: "Batik Jagatan",
     price: "Rp 520.000",
     image: "/jagatan.jpeg",
-    description: "Kaftan batik dengan sentuhan modern",
+    description: "Kain batik dengan motif jagatan",
   },
   {
     id: 6,
     name: "Batik Jagatan Rantai",
     price: "Rp 420.000",
     image: "/jagatanrantai.jpeg",
-    description: "Outer batik kombinasi motif",
+    description: "Kain batik dengan motif jagatan rantai",
   },
   {
     id: 7,
     name: "Batik Ri Pandan",
     price: "Rp 360.000",
     image: "/ri pandan.jpeg",
-    description: "Kemeja batik motif parang rusak",
+    description: "Kain batik dengan motif ri pandan",
   },
   {
     id: 8,
     name: "Batik Sido Mukti",
     price: "Rp 400.000",
     image: "/sidoluhur.jpg",
-    description: "Dress batik dengan motif bunga",
+    description: "Kain batik dengan motif sido mukti",
   },
   {
     id: 9,
     name: "Batik Sido Luhur",
     price: "Rp 450.000",
     image: "/sidomukti.jpg",
-    description: "Kemeja batik motif kawung modern",
+    description: "Kain batik dengan motif sido luhur",
   },
 ]
 
@@ -159,12 +159,12 @@ export default function BatikJemurLanding() {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <Image
-            src="/placeholder.svg?height=1080&width=1920"
+          {/* <Image
+            src="/sidomu"
             alt="Batik texture background"
             fill
             className="object-cover opacity-20 dark:opacity-10"
-          />
+          /> */}
           <div className="absolute inset-0 bg-gradient-to-br from-amber-100/50 via-transparent to-orange-100/50 dark:from-amber-900/50 dark:to-orange-900/50" />
         </div>
 
