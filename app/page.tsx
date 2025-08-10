@@ -366,7 +366,7 @@ export default function BatikJemurLanding() {
             <div className="flex flex-col md:flex-row justify-center items-center gap-8">
               <motion.div whileHover={{ scale: 1.05 }} transition={{ duration: 0.3 }}>
                 <Link
-                  href="https://wa.me/6281234567890"
+                  href="https://wa.me/6287778666508"
                   target="_blank"
                   className="flex items-center gap-4 bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
                 >
