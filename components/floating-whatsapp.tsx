@@ -23,7 +23,7 @@ export function FloatingWhatsApp() {
         }}
       >
         <Link
-          href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20bertanya%20tentang%20produk%20batik%20Anda"
+          href="https://wa.me/6287778666508?text=Halo,%20saya%20ingin%20bertanya%20tentang%20produk%20batik%20Anda"
           target="_blank"
           className="flex items-center justify-center w-14 h-14 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
         >
