@@ -377,7 +377,7 @@ export default function BatikJemurLanding() {
 
               <motion.div whileHover={{ scale: 1.05 }} transition={{ duration: 0.3 }}>
                 <Link
-                  href="https://instagram.com/batikjemur"
+                  href="https://instagram.com/explorejemur91_"
                   target="_blank"
                   className="flex items-center gap-4 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
                 >
@@ -397,7 +397,7 @@ export default function BatikJemurLanding() {
             <h3 className="text-2xl font-bold mb-4 font-serif">Batik Jemur</h3>
             <p className="text-amber-200 mb-6">Melestarikan budaya Indonesia melalui batik berkualitas tinggi</p>
             <div className="border-t border-amber-800 pt-6">
-              <p className="text-amber-300">© 2024 Batik Jemur. All rights reserved.</p>
+              <p className="text-amber-300">© 2025 Batik Jemur. All rights reserved.</p>
             </div>
           </div>
         </div>
