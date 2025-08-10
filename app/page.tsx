@@ -63,14 +63,14 @@ const products = [
     id: 8,
     name: "Batik Sido Mukti",
     price: "Rp 400.000",
-    image: "/placeholder.svg?height=400&width=300",
+    image: "/sidoluhur.jpg",
     description: "Dress batik dengan motif bunga",
   },
   {
     id: 9,
     name: "Batik Sido Luhur",
     price: "Rp 450.000",
-    image: "/placeholder.svg?height=400&width=300",
+    image: "/sidomukti.jpg",
     description: "Kemeja batik motif kawung modern",
   },
 ]
@@ -110,7 +110,7 @@ const staggerContainer = {
 export default function BatikJemurLanding() {
   const handleWhatsAppOrder = (productName: string) => {
     const message = `Halo, saya tertarik dengan ${productName}. Bisa tolong berikan informasi lebih lanjut?`
-    const whatsappUrl = `https://wa.me/6281234567890?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/6287778666508?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -292,7 +292,7 @@ export default function BatikJemurLanding() {
               </p>
               <p className="text-lg text-amber-800 dark:text-amber-200 leading-relaxed mb-6">
                 Setiap kain batik kami dibuat dengan teknik hand-drawn dan hand-stamped oleh pengrajin berpengalaman
-                dari Yogyakarta dan Solo. Kami menggunakan bahan berkualitas tinggi dan pewarna alami untuk menghasilkan
+                dari. Kami menggunakan bahan berkualitas tinggi dan pewarna alami untuk menghasilkan
                 batik yang tidak hanya indah, tetapi juga tahan lama.
               </p>
               <p className="text-lg text-amber-800 dark:text-amber-200 leading-relaxed">
